@@ -3,9 +3,9 @@ from uuid import uuid1, uuid4
 
 ACCOUNTS_NUM = 50
 DOMAIN_NAME = '10.117.60.173'
-START_ACCOUNT_ID = '1001288'
+START_ACCOUNT_ID = '1288100'
 PASSWORD = '00000002000300050007000e000f0078'
-REMOTE_HOST = '120.26.210.103'
+REMOTE_HOST = '210.103.120.26'
 REMOTE_PORT = '5222'
 
 
@@ -105,7 +105,7 @@ def create_accounts_to_xml(filename):
         account.appendChild(enable_sm)
         host = doc.createElement("host")
         host.setAttribute("type", "QString")
-        # host.appendChild(doc.createTextNode("120.26.210.103"))
+        # host.appendChild(doc.createTextNode("210.103.120.26"))
         host.appendChild(doc.createTextNode(REMOTE_HOST))
         account.appendChild(host)
         priority_depends_on_status = doc.createElement("priority-depends-on-status")
@@ -156,7 +156,7 @@ def create_accounts_to_xml(filename):
         account.appendChild(ignore_global_actions)
         jid = doc.createElement("jid")
         jid.setAttribute("type", "QString")
-        # jid.appendChild(doc.createTextNode("1001288@10.117.60.173"))
+        # jid.appendChild(doc.createTextNode("1288100@10.117.60.173"))
         jid.appendChild(doc.createTextNode(jid_list[i]))
         account.appendChild(jid)
         reconn = doc.createElement("reconn")
