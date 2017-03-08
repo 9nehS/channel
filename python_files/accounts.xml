@@ -48,7 +48,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -58,9 +58,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{220ef40f-023f-11e7-9ad1-005056c00008}</id>
+			<id type="QString">{af18398f-03af-11e7-a40c-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -125,7 +125,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -135,9 +135,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c0-023f-11e7-aab8-005056c00008}</id>
+			<id type="QString">{af21af6e-03af-11e7-9026-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -202,7 +202,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -212,9 +212,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c1-023f-11e7-9e10-005056c00008}</id>
+			<id type="QString">{af21d680-03af-11e7-91e8-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -279,7 +279,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -289,9 +289,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c2-023f-11e7-8070-005056c00008}</id>
+			<id type="QString">{af21d681-03af-11e7-a2d7-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -356,7 +356,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -366,9 +366,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c3-023f-11e7-bbf9-005056c00008}</id>
+			<id type="QString">{af21d682-03af-11e7-8306-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -433,7 +433,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -443,9 +443,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c4-023f-11e7-ba7b-005056c00008}</id>
+			<id type="QString">{af21d683-03af-11e7-b178-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -510,7 +510,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -520,9 +520,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c5-023f-11e7-ab0d-005056c00008}</id>
+			<id type="QString">{af21d684-03af-11e7-8026-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -587,7 +587,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -597,9 +597,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c6-023f-11e7-aeeb-005056c00008}</id>
+			<id type="QString">{af21d685-03af-11e7-a54d-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -664,7 +664,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -674,9 +674,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c7-023f-11e7-b8d2-005056c00008}</id>
+			<id type="QString">{af21d686-03af-11e7-bccb-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -741,7 +741,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -751,9 +751,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c8-023f-11e7-99c6-005056c00008}</id>
+			<id type="QString">{af21d687-03af-11e7-a2fe-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -818,7 +818,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -828,9 +828,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1c9-023f-11e7-9007-005056c00008}</id>
+			<id type="QString">{af21d688-03af-11e7-b4e4-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -895,7 +895,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -905,9 +905,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1ca-023f-11e7-a676-005056c00008}</id>
+			<id type="QString">{af21d689-03af-11e7-aad6-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -972,7 +972,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -982,9 +982,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1cb-023f-11e7-8081-005056c00008}</id>
+			<id type="QString">{af21d68a-03af-11e7-b341-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1049,7 +1049,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1059,9 +1059,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1cc-023f-11e7-b786-005056c00008}</id>
+			<id type="QString">{af21d68b-03af-11e7-a749-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1126,7 +1126,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1136,9 +1136,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1cd-023f-11e7-bd97-005056c00008}</id>
+			<id type="QString">{af21d68c-03af-11e7-b3d3-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1203,7 +1203,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1213,9 +1213,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1ce-023f-11e7-b23f-005056c00008}</id>
+			<id type="QString">{af21d68d-03af-11e7-89a2-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1280,7 +1280,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1290,9 +1290,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1cf-023f-11e7-a9ba-005056c00008}</id>
+			<id type="QString">{af21d68e-03af-11e7-aea7-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1357,7 +1357,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1367,9 +1367,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d0-023f-11e7-adfa-005056c00008}</id>
+			<id type="QString">{af21d68f-03af-11e7-97ab-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1434,7 +1434,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1444,9 +1444,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d1-023f-11e7-9797-005056c00008}</id>
+			<id type="QString">{af21d690-03af-11e7-beb7-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1511,7 +1511,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1521,9 +1521,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d2-023f-11e7-8164-005056c00008}</id>
+			<id type="QString">{af21d691-03af-11e7-b66d-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1588,7 +1588,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1598,9 +1598,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d3-023f-11e7-87c7-005056c00008}</id>
+			<id type="QString">{af21d692-03af-11e7-9de0-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1665,7 +1665,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1675,9 +1675,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d4-023f-11e7-b027-005056c00008}</id>
+			<id type="QString">{af21d693-03af-11e7-b853-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1742,7 +1742,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1752,9 +1752,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d5-023f-11e7-a983-005056c00008}</id>
+			<id type="QString">{af21d694-03af-11e7-b894-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1819,7 +1819,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1829,9 +1829,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d6-023f-11e7-bc8c-005056c00008}</id>
+			<id type="QString">{af21d695-03af-11e7-8622-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1896,7 +1896,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1906,9 +1906,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d7-023f-11e7-98cd-005056c00008}</id>
+			<id type="QString">{af21d696-03af-11e7-ba06-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -1973,7 +1973,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -1983,9 +1983,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d8-023f-11e7-a6d1-005056c00008}</id>
+			<id type="QString">{af21d697-03af-11e7-9bb2-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2050,7 +2050,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2060,9 +2060,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1d9-023f-11e7-be62-005056c00008}</id>
+			<id type="QString">{af21d698-03af-11e7-b5c4-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2127,7 +2127,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2137,9 +2137,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1da-023f-11e7-8c38-005056c00008}</id>
+			<id type="QString">{af21d699-03af-11e7-9de3-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2204,7 +2204,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2214,9 +2214,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1db-023f-11e7-a86f-005056c00008}</id>
+			<id type="QString">{af21d69a-03af-11e7-bc27-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2281,7 +2281,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2291,9 +2291,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1dc-023f-11e7-b47d-005056c00008}</id>
+			<id type="QString">{af21d69b-03af-11e7-bf81-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2358,7 +2358,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2368,9 +2368,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1dd-023f-11e7-8d28-005056c00008}</id>
+			<id type="QString">{af21d69c-03af-11e7-8ed9-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2435,7 +2435,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2445,9 +2445,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1de-023f-11e7-953d-005056c00008}</id>
+			<id type="QString">{af21d69d-03af-11e7-9a27-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2512,7 +2512,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2522,9 +2522,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1df-023f-11e7-951c-005056c00008}</id>
+			<id type="QString">{af21d69e-03af-11e7-a642-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2589,7 +2589,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2599,9 +2599,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1e0-023f-11e7-8773-005056c00008}</id>
+			<id type="QString">{af21d69f-03af-11e7-a282-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2666,7 +2666,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2676,9 +2676,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210a1e1-023f-11e7-b2a1-005056c00008}</id>
+			<id type="QString">{af21d6a0-03af-11e7-b4ba-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2743,7 +2743,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2753,9 +2753,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d1-023f-11e7-86e6-005056c00008}</id>
+			<id type="QString">{af21d6a1-03af-11e7-8d7f-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2820,7 +2820,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2830,9 +2830,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d2-023f-11e7-a18a-005056c00008}</id>
+			<id type="QString">{af21d6a2-03af-11e7-8bbd-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2897,7 +2897,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2907,9 +2907,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d3-023f-11e7-9a8e-005056c00008}</id>
+			<id type="QString">{af21d6a3-03af-11e7-8d38-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -2974,7 +2974,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -2984,9 +2984,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d4-023f-11e7-a5e0-005056c00008}</id>
+			<id type="QString">{af21d6a4-03af-11e7-9fbd-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3051,7 +3051,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3061,9 +3061,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d5-023f-11e7-91b4-005056c00008}</id>
+			<id type="QString">{af21d6a5-03af-11e7-bf2d-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3128,7 +3128,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3138,9 +3138,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d6-023f-11e7-af94-005056c00008}</id>
+			<id type="QString">{af21d6a6-03af-11e7-9a07-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3205,7 +3205,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3215,9 +3215,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d7-023f-11e7-aee7-005056c00008}</id>
+			<id type="QString">{af21d6a7-03af-11e7-8523-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3282,7 +3282,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3292,9 +3292,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d8-023f-11e7-b2e4-005056c00008}</id>
+			<id type="QString">{af21d6a8-03af-11e7-9cc9-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3359,7 +3359,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3369,9 +3369,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8d9-023f-11e7-8e46-005056c00008}</id>
+			<id type="QString">{af21d6a9-03af-11e7-b0df-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3436,7 +3436,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3446,9 +3446,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8da-023f-11e7-a127-005056c00008}</id>
+			<id type="QString">{af21d6aa-03af-11e7-8b52-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3513,7 +3513,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3523,9 +3523,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8db-023f-11e7-8b21-005056c00008}</id>
+			<id type="QString">{af21d6ab-03af-11e7-b94a-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3590,7 +3590,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3600,9 +3600,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8dc-023f-11e7-8187-005056c00008}</id>
+			<id type="QString">{af21d6ac-03af-11e7-bd78-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3667,7 +3667,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3677,9 +3677,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8dd-023f-11e7-9f44-005056c00008}</id>
+			<id type="QString">{af21d6ad-03af-11e7-9e2d-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3744,7 +3744,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3754,9 +3754,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8de-023f-11e7-b89b-005056c00008}</id>
+			<id type="QString">{af21fd8f-03af-11e7-a14f-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3821,7 +3821,7 @@
 				<item>stun.voxgratia.org</item>
 			</stun-hosts>
 			<enable-sm type="bool">true</enable-sm>
-			<host type="QString">120.26.210.103</host>
+			<host type="QString">210.103.120.26</host>
 			<priority-depends-on-status type="bool">true</priority-depends-on-status>
 			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
 			<use-host type="bool">true</use-host>
@@ -3831,9 +3831,9 @@
 			<last-status-message type="QString"></last-status-message>
 			<password type="QString">00000002000300050007000e000f0078</password>
 			<security-level type="int">0</security-level>
-			<id type="QString">{2210c8df-023f-11e7-9308-005056c00008}</id>
+			<id type="QString">{af21fd90-03af-11e7-9314-005056c00008}</id>
 			<ignore-global-actions type="bool">false</ignore-global-actions>
-			<jid type="QString">1001288@10.117.60.173</jid>
+			<jid type="QString">1288100@10.117.60.173</jid>
 			<reconn type="bool">true</reconn>
 			<last-status type="QString">online</last-status>
 			<enabled type="bool">true</enabled>
@@ -3853,55 +3853,55 @@
 		</a49>
 	</accounts>
 	<order type="QStringList">
-		<item>{220ef40f-023f-11e7-9ad1-005056c00008}</item>
-		<item>{2210a1c0-023f-11e7-aab8-005056c00008}</item>
-		<item>{2210a1c1-023f-11e7-9e10-005056c00008}</item>
-		<item>{2210a1c2-023f-11e7-8070-005056c00008}</item>
-		<item>{2210a1c3-023f-11e7-bbf9-005056c00008}</item>
-		<item>{2210a1c4-023f-11e7-ba7b-005056c00008}</item>
-		<item>{2210a1c5-023f-11e7-ab0d-005056c00008}</item>
-		<item>{2210a1c6-023f-11e7-aeeb-005056c00008}</item>
-		<item>{2210a1c7-023f-11e7-b8d2-005056c00008}</item>
-		<item>{2210a1c8-023f-11e7-99c6-005056c00008}</item>
-		<item>{2210a1c9-023f-11e7-9007-005056c00008}</item>
-		<item>{2210a1ca-023f-11e7-a676-005056c00008}</item>
-		<item>{2210a1cb-023f-11e7-8081-005056c00008}</item>
-		<item>{2210a1cc-023f-11e7-b786-005056c00008}</item>
-		<item>{2210a1cd-023f-11e7-bd97-005056c00008}</item>
-		<item>{2210a1ce-023f-11e7-b23f-005056c00008}</item>
-		<item>{2210a1cf-023f-11e7-a9ba-005056c00008}</item>
-		<item>{2210a1d0-023f-11e7-adfa-005056c00008}</item>
-		<item>{2210a1d1-023f-11e7-9797-005056c00008}</item>
-		<item>{2210a1d2-023f-11e7-8164-005056c00008}</item>
-		<item>{2210a1d3-023f-11e7-87c7-005056c00008}</item>
-		<item>{2210a1d4-023f-11e7-b027-005056c00008}</item>
-		<item>{2210a1d5-023f-11e7-a983-005056c00008}</item>
-		<item>{2210a1d6-023f-11e7-bc8c-005056c00008}</item>
-		<item>{2210a1d7-023f-11e7-98cd-005056c00008}</item>
-		<item>{2210a1d8-023f-11e7-a6d1-005056c00008}</item>
-		<item>{2210a1d9-023f-11e7-be62-005056c00008}</item>
-		<item>{2210a1da-023f-11e7-8c38-005056c00008}</item>
-		<item>{2210a1db-023f-11e7-a86f-005056c00008}</item>
-		<item>{2210a1dc-023f-11e7-b47d-005056c00008}</item>
-		<item>{2210a1dd-023f-11e7-8d28-005056c00008}</item>
-		<item>{2210a1de-023f-11e7-953d-005056c00008}</item>
-		<item>{2210a1df-023f-11e7-951c-005056c00008}</item>
-		<item>{2210a1e0-023f-11e7-8773-005056c00008}</item>
-		<item>{2210a1e1-023f-11e7-b2a1-005056c00008}</item>
-		<item>{2210c8d1-023f-11e7-86e6-005056c00008}</item>
-		<item>{2210c8d2-023f-11e7-a18a-005056c00008}</item>
-		<item>{2210c8d3-023f-11e7-9a8e-005056c00008}</item>
-		<item>{2210c8d4-023f-11e7-a5e0-005056c00008}</item>
-		<item>{2210c8d5-023f-11e7-91b4-005056c00008}</item>
-		<item>{2210c8d6-023f-11e7-af94-005056c00008}</item>
-		<item>{2210c8d7-023f-11e7-aee7-005056c00008}</item>
-		<item>{2210c8d8-023f-11e7-b2e4-005056c00008}</item>
-		<item>{2210c8d9-023f-11e7-8e46-005056c00008}</item>
-		<item>{2210c8da-023f-11e7-a127-005056c00008}</item>
-		<item>{2210c8db-023f-11e7-8b21-005056c00008}</item>
-		<item>{2210c8dc-023f-11e7-8187-005056c00008}</item>
-		<item>{2210c8dd-023f-11e7-9f44-005056c00008}</item>
-		<item>{2210c8de-023f-11e7-b89b-005056c00008}</item>
-		<item>{2210c8df-023f-11e7-9308-005056c00008}</item>
+		<item>{af18398f-03af-11e7-a40c-005056c00008}</item>
+		<item>{af21af6e-03af-11e7-9026-005056c00008}</item>
+		<item>{af21d680-03af-11e7-91e8-005056c00008}</item>
+		<item>{af21d681-03af-11e7-a2d7-005056c00008}</item>
+		<item>{af21d682-03af-11e7-8306-005056c00008}</item>
+		<item>{af21d683-03af-11e7-b178-005056c00008}</item>
+		<item>{af21d684-03af-11e7-8026-005056c00008}</item>
+		<item>{af21d685-03af-11e7-a54d-005056c00008}</item>
+		<item>{af21d686-03af-11e7-bccb-005056c00008}</item>
+		<item>{af21d687-03af-11e7-a2fe-005056c00008}</item>
+		<item>{af21d688-03af-11e7-b4e4-005056c00008}</item>
+		<item>{af21d689-03af-11e7-aad6-005056c00008}</item>
+		<item>{af21d68a-03af-11e7-b341-005056c00008}</item>
+		<item>{af21d68b-03af-11e7-a749-005056c00008}</item>
+		<item>{af21d68c-03af-11e7-b3d3-005056c00008}</item>
+		<item>{af21d68d-03af-11e7-89a2-005056c00008}</item>
+		<item>{af21d68e-03af-11e7-aea7-005056c00008}</item>
+		<item>{af21d68f-03af-11e7-97ab-005056c00008}</item>
+		<item>{af21d690-03af-11e7-beb7-005056c00008}</item>
+		<item>{af21d691-03af-11e7-b66d-005056c00008}</item>
+		<item>{af21d692-03af-11e7-9de0-005056c00008}</item>
+		<item>{af21d693-03af-11e7-b853-005056c00008}</item>
+		<item>{af21d694-03af-11e7-b894-005056c00008}</item>
+		<item>{af21d695-03af-11e7-8622-005056c00008}</item>
+		<item>{af21d696-03af-11e7-ba06-005056c00008}</item>
+		<item>{af21d697-03af-11e7-9bb2-005056c00008}</item>
+		<item>{af21d698-03af-11e7-b5c4-005056c00008}</item>
+		<item>{af21d699-03af-11e7-9de3-005056c00008}</item>
+		<item>{af21d69a-03af-11e7-bc27-005056c00008}</item>
+		<item>{af21d69b-03af-11e7-bf81-005056c00008}</item>
+		<item>{af21d69c-03af-11e7-8ed9-005056c00008}</item>
+		<item>{af21d69d-03af-11e7-9a27-005056c00008}</item>
+		<item>{af21d69e-03af-11e7-a642-005056c00008}</item>
+		<item>{af21d69f-03af-11e7-a282-005056c00008}</item>
+		<item>{af21d6a0-03af-11e7-b4ba-005056c00008}</item>
+		<item>{af21d6a1-03af-11e7-8d7f-005056c00008}</item>
+		<item>{af21d6a2-03af-11e7-8bbd-005056c00008}</item>
+		<item>{af21d6a3-03af-11e7-8d38-005056c00008}</item>
+		<item>{af21d6a4-03af-11e7-9fbd-005056c00008}</item>
+		<item>{af21d6a5-03af-11e7-bf2d-005056c00008}</item>
+		<item>{af21d6a6-03af-11e7-9a07-005056c00008}</item>
+		<item>{af21d6a7-03af-11e7-8523-005056c00008}</item>
+		<item>{af21d6a8-03af-11e7-9cc9-005056c00008}</item>
+		<item>{af21d6a9-03af-11e7-b0df-005056c00008}</item>
+		<item>{af21d6aa-03af-11e7-8b52-005056c00008}</item>
+		<item>{af21d6ab-03af-11e7-b94a-005056c00008}</item>
+		<item>{af21d6ac-03af-11e7-bd78-005056c00008}</item>
+		<item>{af21d6ad-03af-11e7-9e2d-005056c00008}</item>
+		<item>{af21fd8f-03af-11e7-a14f-005056c00008}</item>
+		<item>{af21fd90-03af-11e7-9314-005056c00008}</item>
 	</order>
 </accounts>
