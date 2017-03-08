@@ -1,0 +1,3907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accounts version="0.16.571.630 (28-01-2017)" xmlns="http://psi-im.org/options">
+	<accounts>
+		<a0>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af18398f-03af-11e7-a40c-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a0</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a0</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a0>
+		<a1>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21af6e-03af-11e7-9026-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a1</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a1</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a1>
+		<a2>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d680-03af-11e7-91e8-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a2</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a2</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a2>
+		<a3>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d681-03af-11e7-a2d7-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a3</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a3</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a3>
+		<a4>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d682-03af-11e7-8306-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a4</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a4</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a4>
+		<a5>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d683-03af-11e7-b178-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a5</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a5</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a5>
+		<a6>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d684-03af-11e7-8026-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a6</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a6</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a6>
+		<a7>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d685-03af-11e7-a54d-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a7</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a7</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a7>
+		<a8>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d686-03af-11e7-bccb-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a8</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a8</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a8>
+		<a9>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d687-03af-11e7-a2fe-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a9</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a9</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a9>
+		<a10>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d688-03af-11e7-b4e4-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a10</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a10</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a10>
+		<a11>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d689-03af-11e7-aad6-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a11</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a11</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a11>
+		<a12>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68a-03af-11e7-b341-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a12</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a12</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a12>
+		<a13>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68b-03af-11e7-a749-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a13</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a13</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a13>
+		<a14>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68c-03af-11e7-b3d3-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a14</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a14</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a14>
+		<a15>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68d-03af-11e7-89a2-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a15</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a15</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a15>
+		<a16>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68e-03af-11e7-aea7-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a16</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a16</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a16>
+		<a17>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d68f-03af-11e7-97ab-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a17</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a17</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a17>
+		<a18>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d690-03af-11e7-beb7-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a18</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a18</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a18>
+		<a19>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d691-03af-11e7-b66d-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a19</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a19</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a19>
+		<a20>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d692-03af-11e7-9de0-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a20</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a20</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a20>
+		<a21>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d693-03af-11e7-b853-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a21</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a21</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a21>
+		<a22>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d694-03af-11e7-b894-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a22</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a22</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a22>
+		<a23>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d695-03af-11e7-8622-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a23</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a23</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a23>
+		<a24>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d696-03af-11e7-ba06-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a24</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a24</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a24>
+		<a25>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d697-03af-11e7-9bb2-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a25</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a25</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a25>
+		<a26>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d698-03af-11e7-b5c4-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a26</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a26</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a26>
+		<a27>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d699-03af-11e7-9de3-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a27</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a27</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a27>
+		<a28>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69a-03af-11e7-bc27-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a28</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a28</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a28>
+		<a29>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69b-03af-11e7-bf81-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a29</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a29</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a29>
+		<a30>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69c-03af-11e7-8ed9-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a30</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a30</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a30>
+		<a31>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69d-03af-11e7-9a27-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a31</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a31</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a31>
+		<a32>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69e-03af-11e7-a642-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a32</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a32</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a32>
+		<a33>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d69f-03af-11e7-a282-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a33</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a33</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a33>
+		<a34>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a0-03af-11e7-b4ba-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a34</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a34</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a34>
+		<a35>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a1-03af-11e7-8d7f-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a35</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a35</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a35>
+		<a36>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a2-03af-11e7-8bbd-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a36</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a36</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a36>
+		<a37>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a3-03af-11e7-8d38-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a37</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a37</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a37>
+		<a38>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a4-03af-11e7-9fbd-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a38</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a38</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a38>
+		<a39>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a5-03af-11e7-bf2d-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a39</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a39</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a39>
+		<a40>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a6-03af-11e7-9a07-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a40</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a40</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a40>
+		<a41>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a7-03af-11e7-8523-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a41</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a41</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a41>
+		<a42>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a8-03af-11e7-9cc9-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a42</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a42</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a42>
+		<a43>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6a9-03af-11e7-b0df-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a43</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a43</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a43>
+		<a44>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6aa-03af-11e7-8b52-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a44</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a44</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a44>
+		<a45>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6ab-03af-11e7-b94a-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a45</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a45</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a45>
+		<a46>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6ac-03af-11e7-bd78-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a46</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a46</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a46>
+		<a47>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21d6ad-03af-11e7-9e2d-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a47</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a47</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a47>
+		<a48>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21fd8f-03af-11e7-a14f-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a48</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a48</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a48>
+		<a49>
+			<tls>
+				<override-certificate type="QByteArray"></override-certificate>
+				<override-domain type="QString"></override-domain>
+			</tls>
+			<scram>
+				<salted-password type="QString"></salted-password>
+				<store-salted-password type="bool">false</store-salted-password>
+			</scram>
+			<custom-auth>
+				<use type="bool">false</use>
+				<authid type="QString"></authid>
+				<realm type="QString"></realm>
+			</custom-auth>
+			<proxy-id type="QString"></proxy-id>
+			<keep-alive type="bool">true</keep-alive>
+			<require-mutual-auth type="bool">false</require-mutual-auth>
+			<last-with-priority type="bool">false</last-with-priority>
+			<port type="int">5222</port>
+			<ignore-SSL-warnings type="bool">false</ignore-SSL-warnings>
+			<connect-after-sleep type="bool">false</connect-after-sleep>
+			<stun-username type="QString"></stun-username>
+			<compress type="bool">false</compress>
+			<muc-bookmarks type="QStringList"/>
+			<stun-hosts type="QStringList">
+				<item>stun.jabber.ru:5249</item>
+				<item>stun.habahaba.im</item>
+				<item>stun.ekiga.net</item>
+				<item>provserver.televolution.net</item>
+				<item>stun1.voiceeclipse.net</item>
+				<item>stun.callwithus.com</item>
+				<item>stun.counterpath.net</item>
+				<item>stun.endigovoip.com</item>
+				<item>stun.ideasip.com</item>
+				<item>stun.internetcalls.com</item>
+				<item>stun.noc.ams-ix.net</item>
+				<item>stun.phonepower.com</item>
+				<item>stun.phoneserve.com</item>
+				<item>stun.rnktel.com</item>
+				<item>stun.softjoys.com</item>
+				<item>stun.sipgate.net</item>
+				<item>stun.sipgate.net:10000</item>
+				<item>stun.stunprotocol.org</item>
+				<item>stun.voipbuster.com</item>
+				<item>stun.voxgratia.org</item>
+			</stun-hosts>
+			<enable-sm type="bool">true</enable-sm>
+			<host type="QString">210.103.120.26</host>
+			<priority-depends-on-status type="bool">true</priority-depends-on-status>
+			<pgp-secret-key-id type="QString"></pgp-secret-key-id>
+			<use-host type="bool">true</use-host>
+			<auto type="bool">false</auto>
+			<ssl type="QString">auto</ssl>
+			<automatic-resource type="bool">false</automatic-resource>
+			<last-status-message type="QString"></last-status-message>
+			<password type="QString">00000002000300050007000e000f0078</password>
+			<security-level type="int">0</security-level>
+			<id type="QString">{af21fd90-03af-11e7-9314-005056c00008}</id>
+			<ignore-global-actions type="bool">false</ignore-global-actions>
+			<jid type="QString">1288100@10.117.60.173</jid>
+			<reconn type="bool">true</reconn>
+			<last-status type="QString">online</last-status>
+			<enabled type="bool">true</enabled>
+			<log type="bool">true</log>
+			<legacy-ssl-probe type="bool">false</legacy-ssl-probe>
+			<stun-host type="QString">stun.jabber.ru:5249</stun-host>
+			<bytestreams-proxy type="QString"></bytestreams-proxy>
+			<pgp-pass-phrase type="QString"></pgp-pass-phrase>
+			<priority type="int">55</priority>
+			<ibb-only type="bool">false</ibb-only>
+			<resource type="QString">Psi_a49</resource>
+			<allow-plain type="QString">over encryped</allow-plain>
+			<always-visible-contacts type="QStringList"/>
+			<name type="QString">channel_test_a49</name>
+			<stun-password type="QString"></stun-password>
+			<auto-same-status type="bool">true</auto-same-status>
+		</a49>
+	</accounts>
+	<order type="QStringList">
+		<item>{af18398f-03af-11e7-a40c-005056c00008}</item>
+		<item>{af21af6e-03af-11e7-9026-005056c00008}</item>
+		<item>{af21d680-03af-11e7-91e8-005056c00008}</item>
+		<item>{af21d681-03af-11e7-a2d7-005056c00008}</item>
+		<item>{af21d682-03af-11e7-8306-005056c00008}</item>
+		<item>{af21d683-03af-11e7-b178-005056c00008}</item>
+		<item>{af21d684-03af-11e7-8026-005056c00008}</item>
+		<item>{af21d685-03af-11e7-a54d-005056c00008}</item>
+		<item>{af21d686-03af-11e7-bccb-005056c00008}</item>
+		<item>{af21d687-03af-11e7-a2fe-005056c00008}</item>
+		<item>{af21d688-03af-11e7-b4e4-005056c00008}</item>
+		<item>{af21d689-03af-11e7-aad6-005056c00008}</item>
+		<item>{af21d68a-03af-11e7-b341-005056c00008}</item>
+		<item>{af21d68b-03af-11e7-a749-005056c00008}</item>
+		<item>{af21d68c-03af-11e7-b3d3-005056c00008}</item>
+		<item>{af21d68d-03af-11e7-89a2-005056c00008}</item>
+		<item>{af21d68e-03af-11e7-aea7-005056c00008}</item>
+		<item>{af21d68f-03af-11e7-97ab-005056c00008}</item>
+		<item>{af21d690-03af-11e7-beb7-005056c00008}</item>
+		<item>{af21d691-03af-11e7-b66d-005056c00008}</item>
+		<item>{af21d692-03af-11e7-9de0-005056c00008}</item>
+		<item>{af21d693-03af-11e7-b853-005056c00008}</item>
+		<item>{af21d694-03af-11e7-b894-005056c00008}</item>
+		<item>{af21d695-03af-11e7-8622-005056c00008}</item>
+		<item>{af21d696-03af-11e7-ba06-005056c00008}</item>
+		<item>{af21d697-03af-11e7-9bb2-005056c00008}</item>
+		<item>{af21d698-03af-11e7-b5c4-005056c00008}</item>
+		<item>{af21d699-03af-11e7-9de3-005056c00008}</item>
+		<item>{af21d69a-03af-11e7-bc27-005056c00008}</item>
+		<item>{af21d69b-03af-11e7-bf81-005056c00008}</item>
+		<item>{af21d69c-03af-11e7-8ed9-005056c00008}</item>
+		<item>{af21d69d-03af-11e7-9a27-005056c00008}</item>
+		<item>{af21d69e-03af-11e7-a642-005056c00008}</item>
+		<item>{af21d69f-03af-11e7-a282-005056c00008}</item>
+		<item>{af21d6a0-03af-11e7-b4ba-005056c00008}</item>
+		<item>{af21d6a1-03af-11e7-8d7f-005056c00008}</item>
+		<item>{af21d6a2-03af-11e7-8bbd-005056c00008}</item>
+		<item>{af21d6a3-03af-11e7-8d38-005056c00008}</item>
+		<item>{af21d6a4-03af-11e7-9fbd-005056c00008}</item>
+		<item>{af21d6a5-03af-11e7-bf2d-005056c00008}</item>
+		<item>{af21d6a6-03af-11e7-9a07-005056c00008}</item>
+		<item>{af21d6a7-03af-11e7-8523-005056c00008}</item>
+		<item>{af21d6a8-03af-11e7-9cc9-005056c00008}</item>
+		<item>{af21d6a9-03af-11e7-b0df-005056c00008}</item>
+		<item>{af21d6aa-03af-11e7-8b52-005056c00008}</item>
+		<item>{af21d6ab-03af-11e7-b94a-005056c00008}</item>
+		<item>{af21d6ac-03af-11e7-bd78-005056c00008}</item>
+		<item>{af21d6ad-03af-11e7-9e2d-005056c00008}</item>
+		<item>{af21fd8f-03af-11e7-a14f-005056c00008}</item>
+		<item>{af21fd90-03af-11e7-9314-005056c00008}</item>
+	</order>
+</accounts>
