@@ -3,11 +3,30 @@ from uuid import uuid1, uuid4
 
 ACCOUNTS_NUM = 50
 DOMAIN_NAME = '10.117.60.173'
-START_ACCOUNT_ID = '1288100'
-PASSWORD = '00000002000300050007000e000f0078'
-REMOTE_HOST = '210.103.120.26'
+START_ACCOUNT_ID = 1001337
+# To be added before execution
+PASSWORD = ''
+#REMOTE_HOST = '210.103.120.26'
+REMOTE_HOST = 'im.jumin.com'
 REMOTE_PORT = '5222'
 
+
+def encode_password(password, key):
+    result = ''
+    if len(key) == 0:
+        return password
+
+    #unicode_key = unicode(key)
+    #print unicode_key
+    i = 0
+    for char in password:
+        #str_hex = '%04x' % (int(unicode(char), 16) ^ int(unicode_key[i], 16))
+        str_hex = '%04x' % (ord(char) ^ ord(key[i]))
+        result += str_hex
+        i += 1
+        if i >= len(key):
+            i = 0
+    return result
 
 def create_accounts_to_xml(filename):
     uuid_list = []
@@ -34,11 +53,13 @@ def create_accounts_to_xml(filename):
     accounts_root.appendChild(order)
 
     # Initialize account_tag_list, resource_list, and jid_list
+    account_id = START_ACCOUNT_ID
     for i in range(0, ACCOUNTS_NUM):
         account_tag_list.append('a' + str(i))
         resource_list.append('Psi_' + account_tag_list[i])
-        jid_list.append(START_ACCOUNT_ID + '@' + DOMAIN_NAME)
+        jid_list.append(str(account_id) + '@' + DOMAIN_NAME)
         accounts_name_list.append('channel_test_' + account_tag_list[i])
+        account_id += 1
     print account_tag_list
     print resource_list
     print jid_list
@@ -139,7 +160,7 @@ def create_accounts_to_xml(filename):
         password = doc.createElement("password")
         password.setAttribute("type", "QString")
         # password.appendChild(doc.createTextNode("00000002000300050007000e000f0078"))
-        password.appendChild(doc.createTextNode(PASSWORD))
+        password.appendChild(doc.createTextNode(encode_password(PASSWORD, jid_list[i])))
         account.appendChild(password)
         security_level = doc.createElement("security-level")
         security_level.setAttribute("type", "int")
@@ -278,3 +299,7 @@ def create_accounts_to_xml(filename):
 
 if __name__ == "__main__":
     create_accounts_to_xml("accounts.xml")
+    # password = '888888'
+    # key = '1001338@10.117.60.173'
+    # new_password = encode_password(password, key)
+    # print new_password
